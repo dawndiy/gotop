@@ -1,5 +1,8 @@
 # gotop
-[![GitHub license](https://img.shields.io/github/license/dawndiy/recorder.svg)](https://raw.githubusercontent.com/dawndiy/gotop/master/LICENSE)
+
+[![GitHub release](https://img.shields.io/github/release/dawndiy/gotop.svg?maxAge=2592000)](https://github.com/dawndiy/gotop/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/dawndiy/gotop.svg)](https://raw.githubusercontent.com/dawndiy/gotop/master/LICENSE)
+[![uApp Explorer](https://img.shields.io/badge/uAppExplorer-Gotop-E95420.svg)](https://uappexplorer.com/snap/ubuntu/gotop)
 
 A top like command line tool with Terminal UI
 
