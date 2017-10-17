@@ -116,7 +116,7 @@ func NewMemChart(width int) *MemChart {
 	g := termui.NewGauge()
 	g.Width = width
 	g.Height = 3
-	g.BorderLabel = "MEMERY UTILIZATION"
+	g.BorderLabel = "MEMORY UTILIZATION"
 
 	sline := termui.NewSparkline()
 	sline.Title = "MEM"
