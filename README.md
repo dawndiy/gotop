@@ -6,6 +6,11 @@
 
 A top like command line tool with Terminal UI
 
+## Install
+```bash
+sudo snap install gotop
+```
+
 ## Screenshot
 <img src="screenshots/gotop.png" width="450">
 
